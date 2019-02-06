@@ -5,7 +5,7 @@
 
 import os
 os.getcwd()
-os.chdir(r'/Users/yossigausman/Desktop/DSA/DMASM/Working Directory')
+os.chdir(...)
 
 #---Libraries------------------------------------------------------------------
 
